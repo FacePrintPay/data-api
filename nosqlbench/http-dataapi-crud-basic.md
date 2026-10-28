@@ -63,3 +63,5 @@ Note that error handling is set to `errors=timer,warn`, which means that in case
 Note that if number of documents is higher than `read-cycles` you would experience misses, which will result in `HTTP 404` and smaller latencies.
 
 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=http-dataapi-crud-basic.md

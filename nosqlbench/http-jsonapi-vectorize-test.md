@@ -37,3 +37,5 @@ nb5 -v http-jsonapi-vectorize-crud docscount=1000 threads=20 jsonapi_host=Your-A
 nb5 -v http-jsonapi-vectorize-crud jsonapi_host=localhost docscount=1000 threads=20
 ```
 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=http-jsonapi-vectorize-test.md

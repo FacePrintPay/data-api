@@ -113,3 +113,5 @@ docker exec -it data-api-dse-1 cqlsh -u cassandra -p cassandra
  the DSE Docker image (`DSEIMAGE`) and tag (`DSETAG`) to use and the HCD Docker image (`HCDIMAGE`) and tag (`HCDTAG`) to use .
 
 * You can override forwarding cqlsh port for DSE/HCD using `DSE_FWD_PORT`/`HCD_FWD_PORT` environment variable respectively.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

@@ -2458,3 +2458,5 @@
 - update stargate to v2.0.1 [\#2](https://github.com/stargate/jsonapi/pull/2) ([ivansenic](https://github.com/ivansenic))
 - bootstrapping the project based on v2 APIs [\#1](https://github.com/stargate/jsonapi/pull/1) ([ivansenic](https://github.com/ivansenic))
 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CHANGELOG.md

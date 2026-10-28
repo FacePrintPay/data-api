@@ -81,3 +81,5 @@ Other Quarkus properties that are specifically relevant for the service:
 | Property                        | Type      | Default | Description                                                                                                         |
 |---------------------------------|-----------|---------|---------------------------------------------------------------------------------------------------------------------|
 | `stargate.feature.flags.tables` | `boolean` | `true` (enabled by default)   | Setting it to `true` enables Tables functionality; `false` disables; leaving as `null` uses the default (enabled).|
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=CONFIGURATION.md

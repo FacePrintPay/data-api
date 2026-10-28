@@ -26,3 +26,5 @@ docker run $INTERACTIVE --rm -v "$(pwd)":/usr/local/src/your-app ferrarimarco/gi
 
 # Remove the additional footer added
 head -n $(( $(wc -l < $CHANGELOG_FILE) - 3 )) $CHANGELOG_FILE > "$CHANGELOG_FILE.tmp" && mv "$CHANGELOG_FILE.tmp" "$CHANGELOG_FILE"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=update_changelog.sh

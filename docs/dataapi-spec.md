@@ -1859,3 +1859,5 @@ The `<sort-clause>` is evaluated using the following order of operations:
 ### Update Clause
 
 **TODO** BNF for update commands, need to use `<document-path>`.
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=dataapi-spec.md
